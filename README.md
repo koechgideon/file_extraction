@@ -1,4 +1,2 @@
-# file_extraction
-# file_extraction
-# file_extraction
-# file_extraction
+# <h1> Code to Extract Images from PDF files
+
